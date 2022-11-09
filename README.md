@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srspdr, a new learner of the code universe!
+- 👋 Hi, I’m @pdrwd, a new learner of the code universe!
 - 🏫 I’m brazilian, i study on the Universidade Federal Rural do Semi-Árido
 - 👨‍💻 I'm on my first period of computer science
 - 📫 Can contact me by: dev.pdrwd@gmail.com
